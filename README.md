@@ -1,0 +1,2 @@
+# appstore_analysys
+rovodevで作ったApp storeユーザレビュー分析アプリ
