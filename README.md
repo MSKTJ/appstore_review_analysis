@@ -56,7 +56,7 @@ cd client && npm install && cd ..
 ルートディレクトリに`.env`ファイルを作成し、以下の内容を記述します。
 
 ```
-GEMINI_API_KEY=AIzaSyB9iH8SN2hkrdeTh8s9FnCIrNQqXxCtMjI
+GEMINI_API_KEY=<your gemini API key>
 PORT=5000
 NODE_ENV=development
 ```
